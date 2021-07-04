@@ -1,0 +1,8 @@
+package MvcApp.springapp;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class RrestController {
+	
+}
